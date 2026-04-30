@@ -11,7 +11,7 @@
 
 ## 🚀 About Me  
 
-I’m a **third-year Computer Engineering student** who enjoys turning ideas into real-world applications.  
+I’m a ** Computer Engineering student** who enjoys turning ideas into real-world applications.  
 From crafting clean UI to building efficient backend systems, I love solving problems using technology.
 
 I’m always exploring new tools, improving my skills, and building projects that push creativity and innovation.  
